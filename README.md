@@ -1,4 +1,4 @@
-Hi there 👋, I'm Osmar Junior!
+<center> Hi there 👋, I'm Osmar Junior! </center>
 
 <!--
 **osmarjunioor/osmarjunioor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
