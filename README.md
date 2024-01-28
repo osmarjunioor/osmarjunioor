@@ -1,7 +1,11 @@
 ### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
-Welcome to my page!
-I'm Osmar, Network specialist from <img src="https://cdn.icon-icons.com/icons2/1694/PNG/512/brbrazilflag_111698.png" width="13"/"
+Welcome to my page! </br>
+I'm Osmar, Network specialist from <img src="https://cdn.icon-icons.com/icons2/1694/PNG/512/brbrazilflag_111698.png" width="13"/> São Paulo, Brazil.
+
+- 🔭 &nbsp;I’m currently working on Starbucks <img src="https://cdn.icon-icons.com/icons2/1694/PNG/512/brbrazilflag_111698.png" width="13"/>
+- 🌱 &nbsp;I’m currently learning Node.JS, Godot
+- :heart: &nbsp;Fun fact: I love :dog:, 🐱 and Valorant. Find me here: [Valorant Tracker](https://tracker.gg/valorant/profile/riot/jnr%20never%20boss%23666/overview)
 
 ### ✨&nbsp; About Me
 Currently totaling 11 years of bilingual professional experience in the field of information technology. Along this path, I built extensive knowledge in network infrastructure with a focus on monitoring, advanced support, troubleshooting, design, implementation and employee training. I have knowledge of programming languages ​​such as Python, JavaScript and SQL.
