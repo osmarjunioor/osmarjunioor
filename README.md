@@ -7,7 +7,7 @@ I'm Osmar, Network analyst from <img src="https://cdn.icon-icons.com/icons2/1694
 - 🌱 &nbsp;I’m currently learning Node.JS, Godot
 - :heart: &nbsp;Fun fact: I love :dog:, 🐱 and Valorant. Find me here: [Valorant Tracker](https://tracker.gg/valorant/profile/riot/jnr%20never%20boss%23666/overview)
 
-Things I work with
+Things I play with
  <img alt="Cisco" src="https://img.shields.io/badge/-white?logo=cisco" />
  <img alt="Sonicwall" src="https://img.shields.io/badge/-gray?logo=sonicwall" />
  <img alt="PaloAlto" src="https://img.shields.io/badge/-white?logo=paloaltonetworks" />
