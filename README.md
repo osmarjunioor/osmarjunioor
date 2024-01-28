@@ -6,5 +6,5 @@ Leadership, communication, negotiation and budget control skills, adaptation to 
 · Contact info: [![Linkedin Badge](https://img.shields.io/badge/-osmarjunior04-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/osmarjunior04/)](https://www.linkedin.com/in/osmarjunior04/)![Static Badge](https://img.shields.io/badge/-osmarjunior04@hotmail.com-blue?logo=microsoftoutlook&link=mailto:osmarjunior04@hotmail.com)
 
 
-![Outlook](https://img.shields.io/badge/-osmarjunior04@hotmail.com-Microsoft_Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)
+![Outlook](https://img.shields.io/badge/-osmarjunior04@hotmail.com-0078D4?style=flat&logo=microsoft-outlook&logoColor=white&link=mailto:osmarjunior04@hotmail.com)(mailto:osmarjunior04@hotmail.com)
 
