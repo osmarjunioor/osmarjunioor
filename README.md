@@ -8,4 +8,3 @@ Leadership, communication, negotiation and budget control skills, adaptation to 
 
 ![Outlook](https://img.shields.io/badge/-osmarjunior04@hotmail.com-Microsoft_Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)
 
-[![Gmail Badge](https://img.shields.io/badge/-flaviaccruzr@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:flaviaccruzr@gmail.com)](mailto:flaviaccruzr@gmail.com)
