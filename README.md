@@ -7,5 +7,5 @@ Leadership, communication, negotiation and budget control skills, adaptation to 
 
 
 
-
+https://img.shields.io/badge/logo-javascript-blue?logo=javascript
 
