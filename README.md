@@ -1,9 +1,9 @@
-### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
 Welcome to my page! </br>
-I'm Osmar, Network specialist from <img src="https://cdn.icon-icons.com/icons2/1694/PNG/512/brbrazilflag_111698.png" width="13"/> São Paulo, Brazil.
+I'm Osmar, Network analyst from <img src="https://cdn.icon-icons.com/icons2/1694/PNG/512/brbrazilflag_111698.png" width="13"/> São Paulo, Brazil.
 
-- 🔭 &nbsp;I’m currently working on Starbucks <img src="https://cdn.icon-icons.com/icons2/1694/PNG/512/brbrazilflag_111698.png" width="13"/>
+- 🔭 &nbsp;I’m currently working as Network Specialist
 - 🌱 &nbsp;I’m currently learning Node.JS, Godot
 - :heart: &nbsp;Fun fact: I love :dog:, 🐱 and Valorant. Find me here: [Valorant Tracker](https://tracker.gg/valorant/profile/riot/jnr%20never%20boss%23666/overview)
 
