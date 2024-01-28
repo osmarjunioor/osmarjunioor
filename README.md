@@ -1,4 +1,7 @@
-<h1 align="center"> Hi there 👋 </h1>
+### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+
+Welcome to my page!
+I'm Osmar, Network specialist from <img src="https://cdn.icon-icons.com/icons2/1694/PNG/512/brbrazilflag_111698.png" width="13"/"
 
 ### ✨&nbsp; About Me
 Currently totaling 11 years of bilingual professional experience in the field of information technology. Along this path, I built extensive knowledge in network infrastructure with a focus on monitoring, advanced support, troubleshooting, design, implementation and employee training. I have knowledge of programming languages ​​such as Python, JavaScript and SQL.
